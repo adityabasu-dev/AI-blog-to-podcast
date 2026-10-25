@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables (keep the example file)
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
