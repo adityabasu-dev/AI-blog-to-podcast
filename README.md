@@ -8,7 +8,7 @@ Simply provide a blog URL, and the application extracts the article, generates a
 
 ## 🎧 Sample Podcast
 
-[▶️ Listen to a sample podcast](assets/sample-podcast.mp3)
+ [▶️ Listen to a sample podcast](https://github.com/adityabasu-dev/AI-blog-to-podcast/raw/refs/heads/main/assets/sample-podcast.mp3)
 
 *Generated from [Bringing the magic: Google breaks open a bottleneck in quantum computing](https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/), published on the Google Blog.*
 
